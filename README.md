@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @etisHere
+- 👀 I’m interested in ... Stuff
+- 🌱 I’m currently learning ... Lots of stuff
+- 💞️ I’m looking to collaborate on ... Nothing yet
