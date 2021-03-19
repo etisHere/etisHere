@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @etisHere
-- 👀 I’m interested in ... Stuff
-- 🌱 I’m currently learning ... Lots of stuff
+- 👀 I’m interested in ... Coffee
+- 🌱 I’m currently learning ... Not Java
 - 💞️ I’m looking to collaborate on ... Nothing yet
