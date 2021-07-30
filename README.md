@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @etisHere
 - 👀 I’m interested in ... Coffee
-- 🌱 I’m currently learning ... Not Java
+- 🌱 I’m currently learning ... Quantum Physics
 - 💞️ I’m looking to collaborate on ... Nothing yet
